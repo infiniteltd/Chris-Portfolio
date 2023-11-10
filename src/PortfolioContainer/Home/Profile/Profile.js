@@ -14,7 +14,7 @@ export default function Profile() {
               <a href='https://www.youtube.com/channel/UC7V9PH1vEBkhCrbqCNwdFyQ'>
                 <i className='fa fa-youtube-square'></i>
               </a>
-              <a href='https://twitter.com/ChrisPurposec60' >
+              <a href='https://twitter.com/Kris_Dev24' >
                 <i className='fa fa-twitter'></i>
               </a>
               <a href='https://github.com/infiniteltd' >
